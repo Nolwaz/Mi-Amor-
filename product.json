@@ -1,0 +1,90 @@
+[{
+    "id": 1,
+    "name":"Leather Bag",
+    "price": 250,
+    "img":"bag-1052370_1280.jpg"
+},
+{
+    "id": 2,
+    "name":"Womens 2-piece",
+    "price": 1200,
+    "img":"woman-1867608_1280.jpg"
+},
+{
+    "id": 3,
+    "name":"Mens silver crystal watch",
+    "price": 300,
+    "img":"clock-2113218_1280.jpg"
+},
+{
+    "id": 4,
+    "name":"Womens winter scarf",
+    "price": 150,
+    "img":"woman-1867093_1280 2.jpg"
+},
+{
+    "id": 5,
+    "name":"Mens denim coat",
+    "price": 900,
+    "img":"coffee-5016043_1280.jpg"
+},
+{
+    "id": 6,
+    "name":"Mens shorts",
+    "price": 150,
+    "img":"balancing-1868051_1280.jpg"
+},
+{
+    "id": 7,
+    "name":"Womens handbag",
+    "price": 150,
+    "img":"woman-8793611_1280.jpg"
+},
+{
+    "id": 8,
+    "name":"Womens corset",
+    "price": 250,
+    "img":"woman-7897053_1280.jpg"
+},
+{
+    "id": 9,
+    "name":"Womens top",
+    "price": 250,
+    "img":"woman-3083453_1280.jpg"
+},
+{
+    "id": 10,
+    "name":"Mens jacket",
+    "price": 500,
+    "img":"man-5653200_1280.jpg"
+},
+{
+    "id": 11,
+    "name":"Womens pink heels",
+    "price": 400,
+    "img":"purse-3635217_1280.jpg"
+},
+{
+    "id": 12,
+    "name":"Womens sunglasses",
+    "price": 100,
+    "img":"woman-9450756_1920.jpg"
+},
+{
+    "id": 13,
+    "name":"Mens white tee",
+    "price": 150,
+    "img":"man-6589404_1280.jpg"
+},
+{
+    "id": 14,
+    "name":"Mens khaki trouser",
+    "price": 250,
+    "img":"businessman-5791566_1280.jpg"
+},
+{
+    "id": 15,
+    "name":"Womens winter dress",
+    "price": 340,
+    "img":"woman-97088_1280.jpg"
+}]
